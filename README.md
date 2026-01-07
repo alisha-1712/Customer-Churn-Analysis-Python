@@ -20,7 +20,7 @@ The goal is not prediction, but **understanding churn drivers** from a business 
 ---
 
 ## DATASET DESCRIPTION
-- **Source:** Kaggle – Customer Churn Prediction Business Dataset  
+- **Source:** Kaggle – [Customer Churn Prediction Business Dataset](https://www.kaggle.com/datasets/miadul/customer-churn-prediction-business-dataset)
 - **Records:** 10,000 customers  
 - **Features:** 32 variables covering:
   - Customer demographics
@@ -88,3 +88,4 @@ The analysis is organized into three notebooks:
 Customer churn is primarily a **behavioral and lifecycle-driven problem**, not a single-factor issue. Businesses that focus on early engagement and multi-signal monitoring are better positioned to reduce churn and improve long-term retention.
 
 ---
+
