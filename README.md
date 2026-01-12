@@ -84,8 +84,4 @@ The analysis is organized into three notebooks:
 
 ---
 
-## KEY INSIGHTS
-Customer churn is primarily a **behavioral and lifecycle-driven problem**, not a single-factor issue. Businesses that focus on early engagement and multi-signal monitoring are better positioned to reduce churn and improve long-term retention.
-
----
 
